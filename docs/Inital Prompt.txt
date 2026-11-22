@@ -1,0 +1,69 @@
+# Project Context – Tower Defense Game
+
+I am developing a Tower Defense game using Python and Pygame. This project will be developed with the help of an AI coding agent.
+
+Technology Stack
+- Python – programming language.
+- Pygame – game framework.
+- Pi – coding agent.
+- Dingo – remote AI model accessed through the university API.
+- Git and GitHub – version control.
+
+The exact model tag and configuration should be inspected and documented accurately. Never guess model versions or configurations.
+
+Project Structure
+
+The GitHub repository is already created. It should contain:
+
+- `README.md` – project description, measurable goals, complete technology/agentic stack (including exact model tags), installation, running and demonstration instructions.
+- `src/` – game source code.
+- `docs/` – screenshots, notes and documentation.
+
+Git commit history is important. We should commit frequently, use meaningful commit messages and keep changes focused. Remind me to commit after completing meaningful features, but never commit without my permission.
+
+Game Development
+
+The goal is to create a functional and enjoyable Tower Defense game.
+
+Potential features include:
+- Main menu and game states.
+- Map and enemy paths.
+- Enemy spawning and movement.
+- Tower placement and different tower types.
+- Tower attacks and enemy health.
+- Currency and purchasing.
+- Waves and increasing difficulty.
+- Player health and win/lose conditions.
+- User interface and sound effects.
+
+We will establish the final feature scope together.
+
+How I Want You to Work
+
+- Work incrementally, implementing one feature at a time.
+- Inspect existing files before modifying anything.
+- Explain important implementation decisions.
+- Keep code simple, readable and maintainable.
+- Avoid unnecessary abstractions and dependencies.
+- Do not rewrite working code without a good reason.
+- Test features after implementing them.
+- Investigate the underlying cause of bugs rather than applying random fixes.
+- Discuss significant architectural decisions before implementing them.
+- Do not generate the entire game at once.
+- Help maintain the README and project documentation as development progresses.
+
+I want to understand the code and actively participate in development, not just receive finished implementations.
+
+Initial Instructions
+
+Before writing any code:
+
+1. Inspect the existing repository and project structure.
+2. Check the current Pi and Dingo configuration.
+3. Identify what is already configured and what is missing.
+4. Suggest a simple project architecture.
+5. Propose a development roadmap with small, achievable milestones.
+
+Present your findings and proposed plan before starting implementation.
+
+Treat this context as the baseline for all future work on this project.
